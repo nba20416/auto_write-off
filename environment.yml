@@ -1,0 +1,32 @@
+name: write-off
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2025.7.15
+  - expat=2.7.1
+  - libcxx=19.1.7
+  - libffi=3.4.4
+  - ncurses=6.5
+  - openssl=3.0.17
+  - pip=26.1.1
+  - python=3.10.18
+  - readline=8.3
+  - setuptools=78.1.1
+  - sqlite=3.50.2
+  - tk=8.6.15
+  - tzdata=2026b
+  - wheel=0.45.1
+  - xz=5.6.4
+  - zlib=1.2.13
+  - pip:
+      - altgraph==0.17.5
+      - et-xmlfile==2.0.0
+      - macholib==1.16.4
+      - openpyxl==3.1.5
+      - packaging==26.2
+      - pyinstaller==6.20.0
+      - pyinstaller-hooks-contrib==2026.5

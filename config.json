@@ -1,0 +1,13 @@
+{
+  "sales_table": {
+    "amount_column": "付款金额",
+    "name_column": "客户姓名",
+    "date_column": "时间"
+  },
+  "bank_table": {
+    "amount_column": "到款金额",
+    "name_column": "付款人姓名",
+    "date_column": "时间"
+  },
+  "banks": ["招商银行"]
+}
